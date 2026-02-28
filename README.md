@@ -40,10 +40,10 @@ An all-in-one **E-commerce App** and **Admin Panel** built using AI-powered tool
 
 For updates, tutorials, and support, follow us:  
 
-- [Telegram Channel](https://t.me/You_B_Tech)  
-- [YouTube](https://youtube.com/@You_B_Tech)  
-- [Instagram](https://instagram.com/you_b_tech)  
-- [Website](https://youbtech.xyz)  
+- [Telegram Channel] ()  
+- [YouTube]()  
+- [Instagram]()  
+- [Website]()  
 
 ---
 
@@ -58,4 +58,4 @@ We welcome contributions! Feel free to open issues or submit pull requests to en
 ---
 
 ## 📞 Support  
-If you have any questions or need help, visit our [Telegram Help Center](https://t.me/You_B_Tech_Coding).
+If you have any questions or need help, visit our [Telegram Help Center]().
